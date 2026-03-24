@@ -31,7 +31,7 @@ Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md). We aim to fost
 
 1. **Fork and clone the repository**:
    ```bash
-   git clone https://github.com/harshhh28/hia.git
+   git clone https://github.com/itzsahil-prog/hia.git
    cd hia
    ```
 
