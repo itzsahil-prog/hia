@@ -136,8 +136,8 @@ Thanks to all the amazing contributors who have helped improve this project!
 
 | Avatar | Name | GitHub | Role | Contributions | PR(s) | Notes |
 |--------|------|--------|------|---------------|-------|-------|
-| <img src="https://github.com/harshhh28.png" width="50px" height="50px" alt="harshhh28 avatar"/> | Sahil Goyal | [itzsahil-prog](https://github.com/itzsahil-prog) | Project Creator & Maintainer | Core implementation, Documentation | N/A | Lead Developer |
-| <img src="https://github.com/gaurav98095.png" width="50px" height="50px" alt="gaurav98095 avatar"/> | 
+| <img src="https://github.com/itzsahil-prog.png" width="50px" height="50px" alt="itzsahil-prog avatar"/> | Sahil Goyal | [itzsahil-prog](https://github.com/itzsahil-prog) | Project Creator & Maintainer | Core implementation, Documentation | N/A | Lead Developer |
+| 
 
 <!-- To future contributors: Your profile will be added here when your PR is merged! -->
 
